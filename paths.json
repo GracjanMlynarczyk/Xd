@@ -1,0 +1,64 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@assets/*": [
+        "assets/*"
+      ],
+      "@components/*": [
+        "components/*"
+      ],
+      "@hooks": [
+        "hooks/index"
+      ],
+      "@hooks/*": [
+        "hooks/*"
+      ],
+      "@models": [
+        "models/index"
+      ],
+      "@models/*": [
+        "models/*"
+      ],
+      "@redux": [
+        "redux/index"
+      ],
+      "@redux/*": [
+        "redux/*"
+      ],
+      "@styles": [
+        "styles/index"
+      ],
+      "@styles/*": [
+        "styles/*"
+      ],
+      "@tests": [
+        "__tests__/index"
+      ],
+      "@tests/*": [
+        "__tests__/*"
+      ],
+      "@types": [
+        "types/index"
+      ],
+      "@types/*": [
+        "types/*"
+      ],
+      "@urls": [
+        "urls"
+      ],
+      "@utils": [
+        "utils/index"
+      ],
+      "@utils/*": [
+        "utils/*"
+      ],
+      "@views": [
+        "views/index"
+      ],
+      "@views/*": [
+        "views/*"
+      ]
+    }
+  }
+}
